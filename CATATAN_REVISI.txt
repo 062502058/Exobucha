@@ -1,0 +1,23 @@
+CATATAN REVISI KATALOG - 23 November 2026
+Sumber tunggal: PDF master Original (10 halaman). Dokumen revisi lama yang saling bertentangan sudah dihapus.
+- 100 gambar katalog dibuat ulang dari master: cairan diwarnai per varian, nama rasa pada label diganti ("Rasa <varian>"), buah pendamping diganti dengan foto buah varian. Tutup hitam sesuai master (bukan putih).
+- Dimensi PET diperbarui sesuai master (9x4, 11,5x5, 15,5x5 cm); dimensi kaca sesuai master.
+- Catatan: halaman master PET 250 ml tidak punya teks "Rasa ..." (hanya pita pucat), nama rasa ditambahkan di atas pita itu.
+- Dihapus dari paket: stroberi-lemon, folder referensi ukuran (sekitar 18 MB), file tidak terpakai.
+- Warna cairan adalah rekayasa digital, bukan foto produk asli. Sebaiknya dicocokkan dengan produk jadi.
+
+- 23 Nov (malam): gambar buah pada seluruh katalog diganti dengan 9 foto buah resolusi tinggi dari PDF baru (assets/buah/*-cutout.webp). Katalog dibuat ulang.
+
+- 24 Nov: judul "Pilih varian / Temukan rasa favoritmu" di Menu dipusatkan dan diperbesar; Panduan ukuran dan teks "Menampilkan 10 varian rasa" dihapus; ditambah catatan bahwa gambar katalog adalah ilustrasi digital.
+- 24 Nov: formulir Kontak kini membuka WhatsApp; Kebijakan Privasi dan Syarat & Ketentuan diisi (perlu ditinjau pengelola); catatan editor artikel diganti sitasi DOI; pencarian mencakup varian; isi keranjang divalidasi dan nama di-escape.
+- 24 Nov: judul 'Menu & Harga Exobucha' dihapus; 'Katalog produk' dan 'Pilih varian' digabung menjadi satu header (Temukan rasa favoritmu); catatan gambar, tab kemasan, dan pencarian ditata rata tengah.
+- 24 Nov: nama produk 'Cascara Original' dan 'Cascara + Buah ...' diganti menjadi 'Exobucha Original' dan 'Exobucha + Buah ...'.
+- 24 Nov: bagian 'Pilihan kemasan' (kartu PET/Kaca) dihapus dari halaman Menu.
+- 24 Nov: seluruh warna TULISAN hijau (judul, tautan, label, menu aktif, teks pendamping) diganti cokelat; latar hijau (tombol, tab aktif, topbar, footer) tidak diubah.
+- 24 Nov: nama halaman 'Menu & Harga' diganti menjadi 'Menu' (navigasi, footer, judul tab, pencarian).
+- 24 Nov: bagian 'Pilih ukuran. Bawa kesegaranmu.' dihapus dari beranda; gambar beranda ditata ulang (buah simetris di sisi botol, kartu Signature Flavor tidak menutupi gambar, kartu varian 3 kolom sama lebar dan judulnya sejajar). File assets/katalog-natural-premium.png kini tidak terpakai.
+- 24 Nov: hero beranda memakai Exobucha Original (botol Original + foto cascara, kartu 'Rasa Andalan'); teks Inggris di beranda dan judul footer diindonesiakan.
+- 24 Nov: 'Stroberi Mint' diganti 'Stroberi Lemon' (nama, deskripsi, beranda, contoh formulir). Ditambah bagian Best Seller di halaman Menu (Semangka Mint, Stroberi Lemon, Blackberry Mint; daftar diatur di script.js: BEST_SELLERS). CATATAN: tulisan pada label botol di gambar katalog stroberi masih 'Rasa Stroberi Mint' dan testimoni di Artikel masih menyebut Stroberi-Mint; keduanya perlu diperbarui pengelola.
+- 24 Nov: galeri dokumentasi di Tentang diperbaiki (sebelumnya terkena aturan CSS beranda sehingga foto berukuran 390 px dan menempel ke judul 'Tim Exobucha'); kini grid 3 kolom dengan jarak rapi. Foto proses dipotong agar tidak memuat orang atau pakaian; 2 foto yang tidak bisa dipotong (proses-persiapan-buah-1, proses-pembuatan) dihapus; produk-botol ditambahkan ke galeri.
+- 24 Nov: logo di bagian 'Sejarah singkat' (Tentang) ditampilkan utuh persegi, tidak lagi dipotong object-fit:cover.
+- 24 Nov: logo di 'Sejarah singkat' (Tentang) kini hanya lingkaran logo (assets/logo-exobucha-bulat.webp, latar transparan); kotak cokelat dihapus.
